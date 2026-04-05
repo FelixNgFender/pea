@@ -1,4 +1,4 @@
-# kindergartener language models
+# kindergartener deep learning models
 
 ![logo](./media/cute_peas.png)
 
@@ -9,6 +9,7 @@ this repo contains two packages:
 - **`pea`** -- a scalar-valued autograd engine with no dependencies
 - **`pealm`** -- kindergartener language models, from bigrams to gpt2, trained
   from scratch
+- `peawm` -- kindergartener world models, WIP.
 
 ## `pea`
 

@@ -21,3 +21,4 @@ checkpoints/
 data/hellaswag
 data/identity_conversations.jsonl
 peashooter/
+notebooks/jepa/data/
