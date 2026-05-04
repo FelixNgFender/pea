@@ -11,9 +11,9 @@ wheels/
 *env
 
 # PyTorch datasets
-notebooks/pytorch/data/
+notebooks/**/data/
 # tensorboard logs
-notebooks/pytorch/runs/
+notebooks/**/runs/
 notebooks/**/*.pth
 # slurm logs
 logs/
@@ -21,4 +21,3 @@ checkpoints/
 data/hellaswag
 data/identity_conversations.jsonl
 peashooter/
-notebooks/jepa/data/
